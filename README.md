@@ -1,2 +1,2 @@
-# AutoHotKey-V2
+# AutoHotkey-V2
 Collection of AutoHotKey V2 scritps
